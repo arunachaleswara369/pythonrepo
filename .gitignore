@@ -2,3 +2,4 @@ work/
 docker_commands.txt
 requirements-dev.txt
 .pre-commit-config.yaml
+azure_cli_commands.sh
