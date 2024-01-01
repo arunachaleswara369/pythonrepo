@@ -1,0 +1,14 @@
+# config.yaml
+aks:
+  subscription_id: aa26d19c-f10a-4711-89ae-0293c48bb8bd
+  resource_group: rgakadeploy
+  cluster_name: myappakscluster
+  node_count: 2  # Adjust the desired node count
+  location: East US
+
+acr:
+  name: myappacr
+  location: East US
+
+# Other application-specific configuration
+message: "Hello, World!"
